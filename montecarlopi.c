@@ -1,5 +1,5 @@
 /***********************************************************************
- * Homework 1: Loopy Conditionals
+ * Loopy Conditionals
  ***********************************************************************/
 
 /* Program conducting Monte Carlo simulations to estimate value if pi
