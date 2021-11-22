@@ -12,3 +12,4 @@ The Monte Carlo method for estimating π picks several random points within a un
 Write a program montecarlopi.c that uses this method to calculate and print an estimate of π that is accurate to three decimal digits.
 
 ## Response
+The program is [here](https://github.com/ridhika123/Monte-Carlo-Simulation/blob/main/montecarlopi.c).
