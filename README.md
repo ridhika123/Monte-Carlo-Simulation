@@ -1,4 +1,4 @@
-# Monte-Carlo-Simulation
+# Monte Carlo Simulation
 
 ## Prompt
 A Monte Carlo method uses random values to model a system and/or estimate values. The technique is used widely in science and engineering, finance, and even law/policy.
